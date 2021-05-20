@@ -18,3 +18,5 @@ git commit -m "any message"
 create a empty remote repository
 git remote add remote repo name remote url
 git push -u remote url 
+git remote -v 
+git push -u class26 master
